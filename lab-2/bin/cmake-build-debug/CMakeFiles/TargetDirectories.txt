@@ -1,0 +1,3 @@
+C:/Users/7777m/OneDrive/Рабочий стол/labwork2/labwork2-olyamironova/bin/cmake-build-debug/CMakeFiles/Project.dir
+C:/Users/7777m/OneDrive/Рабочий стол/labwork2/labwork2-olyamironova/bin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/7777m/OneDrive/Рабочий стол/labwork2/labwork2-olyamironova/bin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
